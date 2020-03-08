@@ -1,0 +1,4 @@
+if:
+HandLef yVel > 5.0
+then:
+PLAY PATTERN Heli IN Melody1

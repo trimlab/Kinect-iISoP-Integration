@@ -1,0 +1,4 @@
+if:
+HandRig yVel > 5.0
+then:
+PLAY PATTERN Arp5 IN Melody2

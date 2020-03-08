@@ -1,0 +1,4 @@
+if:
+then:
+PLAY PATTERN Pattern A IN Melody2
+PLAY PATTERN Smiley Face IN Bass1

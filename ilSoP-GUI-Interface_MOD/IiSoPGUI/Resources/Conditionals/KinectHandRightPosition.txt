@@ -1,0 +1,4 @@
+if:
+HandRig x > 0.0
+then:
+PLAY G3 IN Melody2
